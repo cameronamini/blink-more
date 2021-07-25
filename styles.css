@@ -1,0 +1,13 @@
+.div1 {
+    height: 100px;
+    width: 150px;
+    background: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div2 {
+    color: white;
+    background: none;
+
+}
