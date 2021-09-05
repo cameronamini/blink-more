@@ -7,8 +7,8 @@ const BrowserWindow = electron.BrowserWindow
 
 app.whenReady().then(()=> {
     const win = new BrowserWindow({ 
-        height: 120, 
-        width: 170, 
+        height: 150, 
+        width: 200, 
         transparent: true, 
         frame: false, 
         show: false})
